@@ -4,7 +4,7 @@ Version 1.0
 ==================================================================
 Hayes Chow (tidy dataset)
 Git repo location:
-
+https://github.com/hayeschow168/uci_har_tidy
 ==================================================================
 Original dataset authors
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
