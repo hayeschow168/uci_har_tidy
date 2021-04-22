@@ -40,13 +40,17 @@ For each record it is provided:
 The tidy dataset includes the following files:
 =========================================
 
-- 'README.md'
+- 'README.md': This file.
+
+- 'run_analysis.R': R file for performing tidy operations on original dataset. This will generate the tidy dataset listed below.
+
+- 'uci_har_tidy.txt': The tidy dataset. See files listed below for codebook descriptions.
 
 - 'uci_har_tidy_features_info.txt': Shows information about the variables used on the feature vector.
 
 - 'uci_har_tidy_features.txt': List of all features.
 
-- 'uci_har_tidy_activity_labels.txt': Links the class labels with their activity name.
+- 'uci_har_tidy_activity_labels.txt': List of activity names.
 
 
 Notes: 
